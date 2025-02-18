@@ -1,0 +1,53 @@
+Elo Quartile,Variation,Play_Rate,Win_Rate,Abbreviation
+Q1,Danish Gambit Declined: Sorensen Defense,2,100.0,B1_1
+Q1,Danish Gambit Accepted,42,69.04761904761905,B1_2
+Q1,Qe7 Defense,0,,B1_3
+Q1,Others B1,13,30.76923076923077,B1_4
+Q1,Others W1,4,50.0,W1_1
+Q1,Offered Triple Gambit,35,74.28571428571429,W1_2
+Q1,Take Back Gambit,3,33.33333333333333,W1_3
+Q1,Bb4,1,100.0,B2_1
+Q1,Accepted Triple Gambit,20,75.0,B2_2
+Q1,Take Back Triple Gambit,19,78.94736842105263,W2_2
+Q1,Copenhagen Defense,6,83.33333333333334,B3_1
+Q1,Schlechter Defense,1,100.0,B3_2
+Q1,,14,71.42857142857143,
+Q2,Danish Gambit Declined: Sorensen Defense,6,16.666666666666664,B1_1
+Q2,Danish Gambit Accepted,51,60.78431372549019,B1_2
+Q2,Qe7 Defense,2,100.0,B1_3
+Q2,Others B1,18,77.77777777777779,B1_4
+Q2,Others W1,1,100.0,W1_1
+Q2,Offered Triple Gambit,49,59.183673469387756,W1_2
+Q2,Take Back Gambit,1,100.0,W1_3
+Q2,Bb4,3,33.33333333333333,B2_1
+Q2,Accepted Triple Gambit,25,76.0,B2_2
+Q2,Take Back Triple Gambit,25,76.0,W2_2
+Q2,Copenhagen Defense,8,75.0,B3_1
+Q2,Schlechter Defense,1,100.0,B3_2
+Q2,,21,42.857142857142854,
+Q3,Danish Gambit Declined: Sorensen Defense,8,37.5,B1_1
+Q3,Danish Gambit Accepted,58,55.172413793103445,B1_2
+Q3,Qe7 Defense,0,,B1_3
+Q3,Others B1,21,61.904761904761905,B1_4
+Q3,Others W1,4,75.0,W1_1
+Q3,Offered Triple Gambit,47,53.191489361702125,W1_2
+Q3,Take Back Gambit,7,57.14285714285714,W1_3
+Q3,Bb4,1,100.0,B2_1
+Q3,Accepted Triple Gambit,25,48.0,B2_2
+Q3,Take Back Triple Gambit,23,43.47826086956522,W2_2
+Q3,Copenhagen Defense,9,44.44444444444444,B3_1
+Q3,Schlechter Defense,2,50.0,B3_2
+Q3,,21,57.14285714285714,
+Q4,Danish Gambit Declined: Sorensen Defense,13,38.46153846153847,B1_1
+Q4,Danish Gambit Accepted,18,77.77777777777779,B1_2
+Q4,Qe7 Defense,4,25.0,B1_3
+Q4,Others B1,11,45.45454545454545,B1_4
+Q4,Others W1,1,100.0,W1_1
+Q4,Offered Triple Gambit,15,73.33333333333333,W1_2
+Q4,Take Back Gambit,2,100.0,W1_3
+Q4,Bb4,0,,B2_1
+Q4,Accepted Triple Gambit,8,62.5,B2_2
+Q4,Take Back Triple Gambit,8,62.5,W2_2
+Q4,Copenhagen Defense,4,75.0,B3_1
+Q4,Schlechter Defense,2,50.0,B3_2
+Q4,,7,85.71428571428571,

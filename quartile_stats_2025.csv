@@ -1,0 +1,61 @@
+Elo Quartile,Variation,Play_Rate,Win_Rate,Abbreviation
+Q1,Danish Gambit Declined: Sorensen Defense,2,100.0,B1_1
+Q1,Danish Gambit Accepted,38,65.78947368421053,B1_2
+Q1,Qe7 Defense,0,,B1_3
+Q1,Others B1,13,38.46153846153847,B1_4
+Q1,Others W1,0,,W1_1
+Q1,Offered Triple Gambit,33,69.6969696969697,W1_2
+Q1,Take Back Gambit,5,40.0,W1_3
+Q1,Bb4,2,100.0,B2_1
+Q1,Accepted Triple Gambit,18,61.111111111111114,B2_2
+Q1,Others B2,13,76.92307692307693,B2_3
+Q1,Others W2,0,,W2_1
+Q1,Take Back Triple Gambit,18,61.111111111111114,W2_2
+Q1,Copenhagen Defense,2,50.0,B3_1
+Q1,Schlechter Defense,1,0.0,B3_2
+Q1,Others B3,15,66.66666666666666,B3_3
+Q2,Danish Gambit Declined: Sorensen Defense,3,66.66666666666666,B1_1
+Q2,Danish Gambit Accepted,73,50.68493150684932,B1_2
+Q2,Qe7 Defense,1,0.0,B1_3
+Q2,Others B1,21,61.904761904761905,B1_4
+Q2,Others W1,3,66.66666666666666,W1_1
+Q2,Offered Triple Gambit,58,55.172413793103445,W1_2
+Q2,Take Back Gambit,12,25.0,W1_3
+Q2,Bb4,2,50.0,B2_1
+Q2,Accepted Triple Gambit,29,62.06896551724138,B2_2
+Q2,Others B2,27,48.148148148148145,B2_3
+Q2,Others W2,1,100.0,W2_1
+Q2,Take Back Triple Gambit,28,60.71428571428571,W2_2
+Q2,Copenhagen Defense,8,25.0,B3_1
+Q2,Schlechter Defense,0,,B3_2
+Q2,Others B3,20,75.0,B3_3
+Q3,Danish Gambit Declined: Sorensen Defense,9,33.33333333333333,B1_1
+Q3,Danish Gambit Accepted,42,50.0,B1_2
+Q3,Qe7 Defense,0,,B1_3
+Q3,Others B1,17,58.82352941176471,B1_4
+Q3,Others W1,0,,W1_1
+Q3,Offered Triple Gambit,37,51.35135135135135,W1_2
+Q3,Take Back Gambit,5,40.0,W1_3
+Q3,Bb4,3,33.33333333333333,B2_1
+Q3,Accepted Triple Gambit,13,53.84615384615385,B2_2
+Q3,Others B2,21,52.38095238095239,B2_3
+Q3,Others W2,0,,W2_1
+Q3,Take Back Triple Gambit,13,53.84615384615385,W2_2
+Q3,Copenhagen Defense,6,50.0,B3_1
+Q3,Schlechter Defense,0,,B3_2
+Q3,Others B3,7,57.14285714285714,B3_3
+Q4,Danish Gambit Declined: Sorensen Defense,10,40.0,B1_1
+Q4,Danish Gambit Accepted,25,40.0,B1_2
+Q4,Qe7 Defense,1,100.0,B1_3
+Q4,Others B1,15,40.0,B1_4
+Q4,Others W1,2,100.0,W1_1
+Q4,Offered Triple Gambit,18,27.77777777777778,W1_2
+Q4,Take Back Gambit,5,60.0,W1_3
+Q4,Bb4,0,,B2_1
+Q4,Accepted Triple Gambit,6,16.666666666666664,B2_2
+Q4,Others B2,12,33.33333333333333,B2_3
+Q4,Others W2,0,,W2_1
+Q4,Take Back Triple Gambit,6,16.666666666666664,W2_2
+Q4,Copenhagen Defense,2,0.0,B3_1
+Q4,Schlechter Defense,2,0.0,B3_2
+Q4,Others B3,2,50.0,B3_3

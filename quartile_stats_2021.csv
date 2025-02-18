@@ -1,0 +1,57 @@
+Elo Quartile,Variation,Play_Rate,Win_Rate,Abbreviation
+Q1,Danish Gambit Declined: Sorensen Defense,1,0.0,B1_1
+Q1,Danish Gambit Accepted,29,44.827586206896555,B1_2
+Q1,Qe7 Defense,0,,B1_3
+Q1,Others B1,9,55.55555555555556,B1_4
+Q1,Others W1,1,0.0,W1_1
+Q1,Offered Triple Gambit,25,52.0,W1_2
+Q1,Take Back Gambit,3,0.0,W1_3
+Q1,Bb4,2,50.0,B2_1
+Q1,Accepted Triple Gambit,12,58.333333333333336,B2_2
+Q1,Others B2,11,45.45454545454545,B2_3
+Q1,Take Back Triple Gambit,12,58.333333333333336,W2_2
+Q1,Copenhagen Defense,2,50.0,B3_1
+Q1,Schlechter Defense,0,,B3_2
+Q1,Others B3,10,60.0,B3_3
+Q2,Danish Gambit Declined: Sorensen Defense,5,40.0,B1_1
+Q2,Danish Gambit Accepted,65,63.07692307692307,B1_2
+Q2,Qe7 Defense,0,,B1_3
+Q2,Others B1,17,82.35294117647058,B1_4
+Q2,Others W1,3,66.66666666666666,W1_1
+Q2,Offered Triple Gambit,55,65.45454545454545,W1_2
+Q2,Take Back Gambit,7,42.857142857142854,W1_3
+Q2,Bb4,1,100.0,B2_1
+Q2,Accepted Triple Gambit,38,63.1578947368421,B2_2
+Q2,Others B2,16,68.75,B2_3
+Q2,Take Back Triple Gambit,38,63.1578947368421,W2_2
+Q2,Copenhagen Defense,10,50.0,B3_1
+Q2,Schlechter Defense,3,33.33333333333333,B3_2
+Q2,Others B3,25,72.0,B3_3
+Q3,Danish Gambit Declined: Sorensen Defense,2,50.0,B1_1
+Q3,Danish Gambit Accepted,65,50.76923076923077,B1_2
+Q3,Qe7 Defense,0,,B1_3
+Q3,Others B1,15,80.0,B1_4
+Q3,Others W1,5,40.0,W1_1
+Q3,Offered Triple Gambit,54,51.85185185185185,W1_2
+Q3,Take Back Gambit,6,50.0,W1_3
+Q3,Bb4,0,,B2_1
+Q3,Accepted Triple Gambit,22,45.45454545454545,B2_2
+Q3,Others B2,32,56.25,B2_3
+Q3,Take Back Triple Gambit,22,45.45454545454545,W2_2
+Q3,Copenhagen Defense,5,60.0,B3_1
+Q3,Schlechter Defense,2,50.0,B3_2
+Q3,Others B3,15,40.0,B3_3
+Q4,Danish Gambit Declined: Sorensen Defense,8,25.0,B1_1
+Q4,Danish Gambit Accepted,26,53.84615384615385,B1_2
+Q4,Qe7 Defense,2,0.0,B1_3
+Q4,Others B1,14,57.14285714285714,B1_4
+Q4,Others W1,3,33.33333333333333,W1_1
+Q4,Offered Triple Gambit,15,40.0,W1_2
+Q4,Take Back Gambit,8,87.5,W1_3
+Q4,Bb4,0,,B2_1
+Q4,Accepted Triple Gambit,5,0.0,B2_2
+Q4,Others B2,10,60.0,B2_3
+Q4,Take Back Triple Gambit,5,0.0,W2_2
+Q4,Copenhagen Defense,2,0.0,B3_1
+Q4,Schlechter Defense,0,,B3_2
+Q4,Others B3,3,0.0,B3_3

@@ -1,0 +1,16 @@
+Variation,Play_Rate,Win_Rate,Abbreviation
+Danish Gambit Declined: Sorensen Defense,29,37.93103448275862,B1_1
+Danish Gambit Accepted,169,62.721893491124256,B1_2
+Qe7 Defense,6,50.0,B1_3
+Others B1,63,57.14285714285714,B1_4
+Others W1,10,70.0,W1_1
+Offered Triple Gambit,146,62.328767123287676,W1_2
+Take Back Gambit,13,61.53846153846154,W1_3
+Bb4,5,60.0,B2_1
+Accepted Triple Gambit,78,65.38461538461539,B2_2
+Others B2,0,0.0,B2_3
+Others W2,0,0.0,W2_1
+Take Back Triple Gambit,75,65.33333333333333,W2_2
+Copenhagen Defense,27,66.66666666666666,B3_1
+Schlechter Defense,6,66.66666666666666,B3_2
+Others B3,0,0.0,B3_3
